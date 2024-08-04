@@ -1,30 +1,344 @@
-UserID: 1408935600 | Time: 2024-04-20 09:18:29.943350 | Command: /bgmi | Target: 20.204.190.195 | Port: 10477 | Time: 120
-Username: @DEVIL_9HX
-Target: 20.204.190.195
-Port: 10477
+UserID: 7275752694 | Time: 2024-06-22 16:51:03.041303 | Command: /bgmi | Target: 20.204.188.47 | Port: 10427 | Time: 300
+UserID: 7275752694 | Time: 2024-06-22 16:55:23.674895 | Command: /bgmi | Target: 20.198.110.36 | Port: 19393 | Time: 300
+Username: UserID: 7275752694
+Target: 20.198.110.36
+Port: 19393
+Time: 300
+
+UserID: 7275752694 | Time: 2024-06-22 17:00:10.775638 | Command: /bgmi | Target: 4.247.22.25 | Port: 18148 | Time: 300
+Username: UserID: 7275752694
+Target: 4.247.22.25
+Port: 18148
+Time: 300
+
+UserID: 5508427627 | Time: 2024-06-23 03:57:38.534790 | Command: /bgmi | Target: 20.235.147.109 | Port: 13381 | Time: 299
+Username: @AkashdeepBhattal
+Target: 20.235.147.109
+Port: 13381
+Time: 299
+
+UserID: 5508427627 | Time: 2024-06-23 03:59:53.161526 | Command: /bgmi | Target: 20.198.110.239 | Port: 11037 | Time: 300
+Username: @AkashdeepBhattal
+Target: 20.198.110.239
+Port: 11037
+Time: 300
+
+UserID: 5508427627 | Time: 2024-06-24 14:09:23.395408 | Command: /bgmi | Target: 4.213.68.15 | Port: 20695 | Time: 61
+Username: @AkashdeepBhattal
+Target: 4.213.68.15
+Port: 20695
+Time: 61
+
+UserID: 5508427627 | Time: 2024-06-24 14:19:32.377024 | Command: /bgmi | Target: 20.204.176.245 | Port: 19159 | Time: 250
+Username: @AkashdeepBhattal
+Target: 20.204.176.245
+Port: 19159
+Time: 250
+
+UserID: 5508427627 | Time: 2024-06-26 04:44:54.064779 | Command: /bgmi | Target: 52.140.43.20 | Port: 15776 | Time: 300
+Username: @AkashdeepBhattal
+Target: 52.140.43.20
+Port: 15776
+Time: 300
+
+UserID: 5508427627 | Time: 2024-06-26 04:51:39.991110 | Command: /bgmi | Target: 20.235.146.237 | Port: 24994 | Time: 50
+Username: @AkashdeepBhattal
+Target: 20.235.146.237
+Port: 24994
+Time: 50
+
+UserID: 5508427627 | Time: 2024-06-26 04:54:14.884250 | Command: /bgmi | Target: 20.235.92.127 | Port: 21168 | Time: 240
+Username: @AkashdeepBhattal
+Target: 20.235.92.127
+Port: 21168
+Time: 240
+
+UserID: 5508427627 | Time: 2024-06-26 15:44:03.367908 | Command: /bgmi | Target: 52.140.7.125 | Port: 19705 | Time: 400
+UserID: 5508427627 | Time: 2024-06-26 15:44:14.609127 | Command: /bgmi | Target: 52.140.7.125 | Port: 19705 | Time: 400
+Username: @AkashdeepBhattal
+Target: 52.140.7.125
+Port: 19705
+Time: 400
+
+UserID: 5508427627 | Time: 2024-06-26 16:08:04.013096 | Command: /bgmi | Target: 52.140.7.125 | Port: 19705 | Time: 400
+Username: @AkashdeepBhattal
+Target: 52.140.7.125
+Port: 19705
+Time: 400
+
+UserID: 5508427627 | Time: 2024-06-26 16:21:16.714920 | Command: /bgmi | Target: 20.204.188.209 | Port: 10461 | Time: 70
+Username: @AkashdeepBhattal
+Target: 20.204.188.209
+Port: 10461
+Time: 70
+
+UserID: 5508427627 | Time: 2024-06-28 06:13:24.233504 | Command: /bgmi | Target: 20.204.188.47 | Port: 10458 | Time: 350
+Username: @AkashdeepBhattal
+Target: 20.204.188.47
+Port: 10458
+Time: 350
+
+UserID: 5508427627 | Time: 2024-06-28 06:55:01.385665 | Command: /bgmi | Target: 20.198.110.60 | Port: 10447 | Time: 300
+Username: @AkashdeepBhattal
+Target: 20.198.110.60
+Port: 10447
+Time: 300
+
+UserID: 5508427627 | Time: 2024-06-29 12:48:00.970449 | Command: /bgmi | Target: 7385 | Port: 7385 | Time: 210
+Username: @AkashdeepBhattal
+Target: 7385
+Port: 7385
+Time: 210
+
+UserID: 5508427627 | Time: 2024-06-29 12:57:30.755741 | Command: /bgmi | Target: 20.235.94.237 | Port: 17912 | Time: 200
+UserID: 5508427627 | Time: 2024-07-03 02:38:00.623295 | Command: /bgmi | Target: 20.219.167.176 | Port: 20207 | Time: 300
+Username: @AkashdeepBhattal
+Target: 20.219.167.176
+Port: 20207
+Time: 300
+
+UserID: 5508427627 | Time: 2024-07-05 14:05:34.527454 | Command: /bgmi | Target: 20.235.149.170 | Port: 23725 | Time: 70
+Username: @AkashdeepBhattal
+Target: 20.235.149.170
+Port: 23725
+Time: 70
+
+UserID: 5508427627 | Time: 2024-07-05 14:11:05.938189 | Command: /bgmi | Target: 20.198.106.69 | Port: 13131 | Time: 200
+Username: @AkashdeepBhattal
+Target: 20.198.106.69
+Port: 13131
+Time: 200
+
+UserID: 5508427627 | Time: 2024-07-05 14:44:47.715457 | Command: /bgmi | Target: 20.198.106.69 | Port: 13131 | Time: 200
+UserID: 5508427627 | Time: 2024-07-05 14:44:47.715380 | Command: /bgmi | Target: 658.685.689 | Port: 20202 | Time: 20
+Username: @AkashdeepBhattal
+Target: 658.685.689
+Port: 20202
+Time: 20
+
+Username: @AkashdeepBhattal
+Target: 20.198.106.69
+Port: 13131
+Time: 200
+
+UserID: 5508427627 | Time: 2024-07-05 14:56:38.170840 | Command: /bgmi | Target: 20.204.17.153 | Port: 10464 | Time: 120
+Username: @AkashdeepBhattal
+Target: 20.204.17.153
+Port: 10464
 Time: 120
 
-UserID: 1408935600 | Time: 2024-04-20 09:20:39.302909 | Command: /bgmi | Target: 20.204.190.195 | Port: 10477 | Time: 120
-Username: @DEVIL_9HX
-Target: 20.204.190.195
-Port: 10477
+UserID: 5508427627 | Time: 2024-07-05 15:04:33.603620 | Command: /bgmi | Target: 20.219.167.77 | Port: 23251 | Time: 420
+UserID: 5508427627 | Time: 2024-07-05 15:13:50.161335 | Command: /bgmi | Target: 20.198.104.241 | Port: 23558 | Time: 420
+Username: @AkashdeepBhattal
+Target: 20.198.104.241
+Port: 23558
+Time: 420
+
+UserID: 5508427627 | Time: 2024-07-06 02:33:26.772792 | Command: /bgmi | Target: 20.198.78.217 | Port: 13884 | Time: 120
+Username: @AkashdeepBhattal
+Target: 20.198.78.217
+Port: 13884
 Time: 120
 
-UserID: 1408935600 | Time: 2024-04-20 09:22:46.249710 | Command: /bgmi | Target: 20.204.190.195 | Port: 10477 | Time: 120
-Username: @DEVIL_9HX
-Target: 20.204.190.195
-Port: 10477
+UserID: 5508427627 | Time: 2024-07-06 02:33:55.257478 | Command: /bgmi | Target: 20.198.78.217 | Port: 13883 | Time: 120
+Username: @AkashdeepBhattal
+Target: 20.198.78.217
+Port: 13883
 Time: 120
 
-UserID: 5034980235 | Time: 2024-04-20 09:27:24.947140 | Command: /bgmi | Target: 20.219.77.5 | Port: 25144 | Time: 180
-Username: @ClutchGod_Owner
-Target: 20.219.77.5
-Port: 25144
-Time: 180
+UserID: 5508427627 | Time: 2024-07-06 02:42:55.483611 | Command: /bgmi | Target: 20.198.78.217 | Port: 13883 | Time: 120
+Username: @AkashdeepBhattal
+Target: 20.198.78.217
+Port: 13883
+Time: 120
 
-UserID: 5034980235 | Time: 2024-04-20 09:36:27.950102 | Command: /bgmi | Target: 20.235.15.136 | Port: 27568 | Time: 180
-Username: @ClutchGod_Owner
-Target: 20.235.15.136
-Port: 27568
-Time: 180
+UserID: 5508427627 | Time: 2024-07-06 02:44:31.976591 | Command: /bgmi | Target: 20.198.78.217 | Port: 13883 | Time: 120
+Username: @AkashdeepBhattal
+Target: 20.198.78.217
+Port: 13883
+Time: 120
+
+UserID: 5508427627 | Time: 2024-07-06 02:46:47.988406 | Command: /bgmi | Target: 20.198.78.217 | Port: 13883 | Time: 500
+Username: @AkashdeepBhattal
+Target: 20.198.78.217
+Port: 13883
+Time: 500
+
+UserID: 5508427627 | Time: 2024-07-08 14:50:48.690842 | Command: /bgmi | Target: 52.140.63.126 | Port: 13164 | Time: 340
+Username: @AkashdeepBhattal
+Target: 52.140.63.126
+Port: 13164
+Time: 340
+
+UserID: 5508427627 | Time: 2024-07-08 15:26:35.244921 | Command: /bgmi | Target: 20.204.16.218 | Port: 24401 | Time: 340
+Username: @AkashdeepBhattal
+Target: 20.204.16.218
+Port: 24401
+Time: 340
+
+UserID: 5508427627 | Time: 2024-07-08 15:35:25.436946 | Command: /bgmi | Target: 4.213.65.47 | Port: 28258 | Time: 260
+Username: @AkashdeepBhattal
+Target: 4.213.65.47
+Port: 28258
+Time: 260
+
+UserID: 5508427627 | Time: 2024-07-08 15:44:29.128124 | Command: /bgmi | Target: 20.204.18.155 | Port: 10526 | Time: 260
+Username: @AkashdeepBhattal
+Target: 20.204.18.155
+Port: 10526
+Time: 260
+
+UserID: 5508427627 | Time: 2024-07-08 16:26:59.413390 | Command: /bgmi | Target: 52.140.2.177 | Port: 25490 | Time: 260
+Username: @AkashdeepBhattal
+Target: 52.140.2.177
+Port: 25490
+Time: 260
+
+UserID: 5508427627 | Time: 2024-07-08 16:38:29.178326 | Command: /bgmi | Target: 52.140.2.177 | Port: 25490 | Time: 70
+UserID: 5508427627 | Time: 2024-07-10 01:39:58.603414 | Command: /bgmi | Target: 20.204.181.19 | Port: 11751 | Time: 120
+Username: @Akashdeep78144
+Target: 20.204.181.19
+Port: 11751
+Time: 120
+
+UserID: 5508427627 | Time: 2024-07-20 00:44:48.657668 | Command: /bgmi | Target: 20.204.19.15 | Port: 10112 | Time: 350
+UserID: 5508427627 | Time: 2024-07-21 05:10:30.758920 | Command: /bgmi | Target: 20.235.18.183 | Port: 21352 | Time: 300
+Username: @Akashdeep78144
+Target: 20.235.18.183
+Port: 21352
+Time: 300
+
+UserID: 5508427627 | Time: 2024-07-21 05:41:09.755882 | Command: /bgmi | Target: 20.235.146.46 | Port: 17464 | Time: 400
+Username: @Akashdeep78144
+Target: 20.235.146.46
+Port: 17464
+Time: 400
+
+UserID: 5508427627 | Time: 2024-07-21 05:43:02.359537 | Command: /bgmi | Target: 20.235.146.46 | Port: 17464 | Time: 400
+Username: @Akashdeep78144
+Target: 20.235.146.46
+Port: 17464
+Time: 400
+
+UserID: 5508427627 | Time: 2024-07-31 10:23:56.014515 | Command: /bgmi | Target: 20.235.14.128 | Port: 13868 | Time: 400
+Username: @Akashdeep78144
+Target: 20.235.14.128
+Port: 13868
+Time: 400
+
+UserID: 5508427627 | Time: 2024-07-31 10:34:35.345101 | Command: /bgmi | Target: 52.140.62.215 | Port: 22375 | Time: 400
+Username: @Akashdeep78144
+Target: 52.140.62.215
+Port: 22375
+Time: 400
+
+UserID: 5508427627 | Time: 2024-07-31 10:36:00.604529 | Command: /bgmi | Target: 20.235.53.99 | Port: 29312 | Time: 400
+Username: @Akashdeep78144
+Target: 20.235.53.99
+Port: 29312
+Time: 400
+
+UserID: 5508427627 | Time: 2024-07-31 10:41:47.193796 | Command: /bgmi | Target: 20.235.53.99 | Port: 29312 | Time: 400
+UserID: 5508427627 | Time: 2024-07-31 15:20:52.560735 | Command: /bgmi | Target: 20.204.88.242 | Port: 23636 | Time: 400
+Username: @Akashdeep78144
+Target: 20.204.88.242
+Port: 23636
+Time: 400
+
+UserID: 5508427627 | Time: 2024-08-01 13:32:34.103540 | Command: /bgmi | Target: 20.204.88.72 | Port: 25739 | Time: 340
+Username: @Akashdeep78144
+Target: 20.204.88.72
+Port: 25739
+Time: 340
+
+UserID: 5508427627 | Time: 2024-08-01 13:36:49.904039 | Command: /bgmi | Target: 20.204.191.16 | Port: 10110 | Time: 400
+Username: @Akashdeep78144
+Target: 20.204.191.16
+Port: 10110
+Time: 400
+
+UserID: 5508427627 | Time: 2024-08-01 13:41:39.181147 | Command: /bgmi | Target: 20.204.19.253 | Port: 10222 | Time: 350
+Username: @Akashdeep78144
+Target: 20.204.19.253
+Port: 10222
+Time: 350
+
+UserID: 5508427627 | Time: 2024-08-02 14:10:44.725134 | Command: /bgmi | Target: 4.213.65.165 | Port: 13485 | Time: 390
+Username: @Akashdeep78144
+Target: 4.213.65.165
+Port: 13485
+Time: 390
+
+UserID: 5508427627 | Time: 2024-08-02 14:51:00.241634 | Command: /bgmi | Target: 20.204.191.101 | Port: 10451 | Time: 390
+Username: @Akashdeep78144
+Target: 20.204.191.101
+Port: 10451
+Time: 390
+
+UserID: 5508427627 | Time: 2024-08-03 15:11:51.584340 | Command: /bgmi | Target: 20.235.10.172 | Port: 11414 | Time: 390
+Username: @Akashdeep78144
+Target: 20.235.10.172
+Port: 11414
+Time: 390
+
+UserID: 5508427627 | Time: 2024-08-03 15:18:52.755208 | Command: /bgmi | Target: 20.235.10.172 | Port: 11414 | Time: 160
+UserID: 5508427627 | Time: 2024-08-03 15:26:56.649609 | Command: /bgmi | Target: 20.204.181.170 | Port: 13338 | Time: 390
+Username: @Akashdeep78144
+Target: 20.204.181.170
+Port: 13338
+Time: 390
+
+UserID: 5508427627 | Time: 2024-08-03 15:41:51.472856 | Command: /bgmi | Target: 20.198.107.132 | Port: 26559 | Time: 450
+Username: @Akashdeep78144
+Target: 20.198.107.132
+Port: 26559
+Time: 450
+
+UserID: 5508427627 | Time: 2024-08-04 03:03:13.403353 | Command: /bgmi | Target: 20.204.191.209 | Port: 10323 | Time: 550
+Username: @Akashdeep78144
+Target: 20.204.191.209
+Port: 10323
+Time: 550
+
+UserID: 5508427627 | Time: 2024-08-04 03:04:15.030018 | Command: /bgmi | Target: 20.204.191.209 | Port: 10323 | Time: 550
+Username: @Akashdeep78144
+Target: 20.204.191.209
+Port: 10323
+Time: 550
+
+UserID: 5508427627 | Time: 2024-08-04 03:37:15.929236 | Command: /bgmi | Target: 4.213.64.221 | Port: 13764 | Time: 650
+Username: @Akashdeep78144
+Target: 4.213.64.221
+Port: 13764
+Time: 650
+
+UserID: 5508427627 | Time: 2024-08-04 05:01:11.913727 | Command: /bgmi | Target: 104.211.240.59 | Port: 18084 | Time: 700
+Username: @Akashdeep78144
+Target: 104.211.240.59
+Port: 18084
+Time: 700
+
+UserID: 5508427627 | Time: 2024-08-04 05:20:33.792621 | Command: /bgmi | Target: 104.211.240.59 | Port: 18084 | Time: 60
+Username: @Akashdeep78144
+Target: 104.211.240.59
+Port: 18084
+Time: 60
+
+UserID: 5508427627 | Time: 2024-08-04 05:33:17.174048 | Command: /bgmi | Target: 20.219.163.225 | Port: 15331 | Time: 660
+Username: @Akashdeep78144
+Target: 20.219.163.225
+Port: 15331
+Time: 660
+
+UserID: 5508427627 | Time: 2024-08-04 06:07:00.134320 | Command: /bgmi | Target: 20.204.180.174 | Port: 22337 | Time: 660
+Username: @Akashdeep78144
+Target: 20.204.180.174
+Port: 22337
+Time: 660
+
+UserID: 5508427627 | Time: 2024-08-04 06:32:51.237401 | Command: /bgmi | Target: 20.204.190.20 | Port: 10333 | Time: 690
+Username: @Akashdeep78144
+Target: 20.204.190.20
+Port: 10333
+Time: 690
 

